@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your project titled **Waste Segregation using CNN**. It's written in a professional yet approachable tone and includes key sections like project description, setup, dataset, usage, and more:
-
----
 
 # 🗑️ Waste Segregation using CNN
 
